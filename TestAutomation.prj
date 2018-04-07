@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>TestAutomation</name>
+   <tag></tag>
+   <UUID>2c250511-1eef-410b-b8d1-7d6329514bda</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
